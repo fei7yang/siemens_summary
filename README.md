@@ -32,6 +32,8 @@ Pls Scroll Up to View Summary.md for more details
 
 ## 更新日志
 > ###  2018-09-10 
+>     fix reading issues
+> ###  2018-09-10 
 >     change summary to markdown for reading and add stufffor previous 2 weeks
 > ###  2018-09-10 
 >     arranged readme of a markdown type
