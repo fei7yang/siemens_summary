@@ -10,6 +10,21 @@ Pls Scroll Up to View Summary.md for more details
 
 -----------------
 
+
+## 许可证
+![avatar](https://www.siemens.com/content/dam/internet/siemens-com/global/logo/siemens-logo-en-2x.png)
+![avatar](https://www.siemens.com/content/dam/internet/siemens-com/global/logo/siemens-logo-claim-en-2x.png)
+
+-----------------
+
+
+## 注意
+    This repo is for internal use and read-only.
+    Any misuse and distribution will cause legal issues.
+
+-----------------
+
+
 ## 已实现功能
 + Bi-weekly Summary Assembly
 + Readme in Markdown Type
@@ -19,18 +34,10 @@ Pls Scroll Up to View Summary.md for more details
 
 -----------------
 
-## 注意
-    This repo is for internal use and read-only.
-    Any misuse and distribution will cause legal issues.
-
------------------
-
-## 许可证
-
-
------------------
 
 ## 更新日志
+> ###  2018-09-13
+>     re-arranged composing
 > ###  2018-09-11
 >     add work
 > ###  2018-09-10 
