@@ -36,6 +36,8 @@ Pls Scroll Up to View Summary.md for more details
 
 
 ## 更新日志
+> ###  2018-09-25
+>     initial week
 > ###  2018-09-17
 >     finish last week work
 > ###  2018-09-13
