@@ -36,6 +36,8 @@ Pls Scroll Up to View Summary.md for more details
 
 
 ## 更新日志
+> ###  2018-09-27
+>     add work for pre-3 days
 > ###  2018-09-25
 >     initial week
 > ###  2018-09-17
