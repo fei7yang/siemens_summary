@@ -36,16 +36,8 @@ Pls Scroll Up to View Summary.md for more details
 
 
 ## 更新日志
-> ###  2018-09-27
->     add work for pre-3 days
-> ###  2018-09-25
->     initial week
-> ###  2018-09-17
->     finish last week work
-> ###  2018-09-13
->     re-arranged composing
 > ###  2018-09-11
->     add work
+>     arranged the table, make it work and add some work
 > ###  2018-09-10 
 >     change table format
 > ###  2018-09-10 
