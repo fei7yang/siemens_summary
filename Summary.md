@@ -4,9 +4,9 @@
 | :------| ------ |
 | 周一 | AWC入门了解与安装学习，预计明天进行SD设计分工讨论与任务分配。 |
 | 周二 | 在AW上测试schedule manager的部分功能，感觉aw更适合时间表的输出与展示部分，甚至部分场景下，不用开发也可以实现报表输出功能。 |
-| 周三 | 。 |
+| 周三 | oracle和installation on unix研究。 |
 | 周四 | AW相关阅读；cadence部分storyboard工作和技术文档配IRDC部分storyboard工作。 |
-| 周五 | Centos上搭建server测试，静默安装，无GUI。 |
+| 周五 | Centos上搭建server测试，静默安装，无GUI；跟设计确认添加属性。 |
 
 > ###  Progress
 >   >本周比较大的一个知识感知其实是了解了AdvantEdge和我们目前的项目交付的整个流程。  
