@@ -9,7 +9,7 @@
 | 周五 | 。 |
 
 > ###  Doing
->   * 。  
+>   * AW中OAR模块在Docker中进行了应用，学习了一下。OAR是一个新的权限管理模块，随后会逐步把Access Management进行替代。  
 > ###  Progress
 >   * 。 
 > ###  Retrogress
