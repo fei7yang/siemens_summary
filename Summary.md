@@ -6,7 +6,7 @@
 | 周二 | Cadence服务端环境搭建。 |
 | 周三 | Cadence客户端环境搭建。 |
 | 周四 | Cadence UAT截图。 |
-| 周五 | 。 |
+| 周五 | Cadence集成部分问题梳理，解决BUG。 |
 
 > ###  Doing
 >   * AW中OAR模块在Docker中进行了应用，学习了一下。OAR是一个新的权限管理模块，随后会逐步把Access Management进行替代。  
