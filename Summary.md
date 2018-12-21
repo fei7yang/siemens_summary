@@ -6,12 +6,13 @@
 | 周二 | 时间表测试准备。 |
 | 周三 | 时间表UAT。 |
 | 周四 | 时间表UAT。 |
-| 周五 | 。 |
+| 周五 | 整理文档。 |
 
 > ###  Doing  
->   * 本周解决oracle无法在centos image中修改hostname的问题。
+>   * 本周解决oracle无法在centos image中修改hostname的问题。（截止周五依然有bug）
+>   * 看到一个比较好的python教程，打算尝试一下爬取community的数据。
 > ###  Progress
->   * 。 
+>   * 本周主要是时间表UAT，基本完成了时间表部分的OTB功能测试，测试结果比较满意。 
 > ###  Retrogress
 >   * 拖延了比较久的主线学习剧情，这一周一定要听至少一门课。     
 > ###  Todo
