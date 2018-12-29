@@ -6,13 +6,14 @@
 | 周三 | learning center听课。 |
 | 周四 | learning center听课。 |
 | 周五 | learning center听课。 |
-| 周六 | 。 |
+| 周六 | 浏览我司不同info web查看信息流。 |
 
 > ###  Doing  
->   * AW部分卡bug比较严重，也木有人能给技术支持，自己慢慢消化吧。
->   * 另外就是开了新的主题，尝试一下community上爬取信息流。
+>   * AW部分卡bug比较严重，也木有人能给技术支持，自己慢慢消化吧。   
+>   * 另外就是开了新的主题，尝试一下community上爬取信息流。   
+>   * 暂定community网站。
 > ###  Progress
->   * 本周因为事情不多，主要是在learning center上听课，完成新年度的学习任务。 
+>   * 本周因为事情不多，主要是在learning center上听课，完成新财年的学习任务。 
 > ###  Retrogress
 >   * 突然闲下来稍微有点不适应，调整一下做做自我学习，稍微有一点迷茫，有工作的时候清楚要做的方向，不会的也可以问人或者针对性的查资料，但是突然闲下来学习的时候感觉想看的东西很多，不知道从哪里着手，所以之前写的那个individual plan还是很有用的，打开一看，目标是AW的delivery，就去找AW课了。
 > ###  Todo
