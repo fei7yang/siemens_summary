@@ -3,7 +3,7 @@
 | Date | Details |
 | :------| ------ |
 | 周一 | learning center上听课。 |
-| 周二 | 。 |
+| 周二 | learning center上听课。 |
 | 周三 | 。 |
 | 周四 | 。 |
 | 周五 | 。 |
