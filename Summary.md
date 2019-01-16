@@ -4,7 +4,7 @@
 | :------| ------ |
 | 周一 | learning center上听课。 |
 | 周二 | learning center上听课。 |
-| 周三 | 。 |
+| 周三 | learning center上听课。 |
 | 周四 | 。 |
 | 周五 | 。 |
 
