@@ -2,9 +2,9 @@
 
 | Date | Details |
 | :------| ------ |
-| 周一 | 。 |
-| 周二 | 。 |
-| 周三 | 。 |
+| 周一 | learning center学习。 |
+| 周二 | learning center学习。 |
+| 周三 | learning center学习。 |
 | 周四 | 。 |
 | 周五 | 。 |
 
