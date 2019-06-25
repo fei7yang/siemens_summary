@@ -2,6 +2,28 @@
 
 | Date | Details |
 | :------| ------ |
+| 周一 | leave。 |
+| 周二 | 收集统计设计测试结果反馈，工艺第二轮uat。 |
+| 周三 | 。 |
+| 周四 | 。 |
+| 周五 | 。 |
+
+> ###  Progress
+>   * 。  
+> ###  Retrogress
+>   * 。 
+> ###  Todo
+>   * 7.22上海workshop，准备schedule的ppt。
+>   * learning center学习。  
+>   * mpp文档的学习。  
+  
+
+-----------------
+
+# 2019.6.17-2019.6.21
+
+| Date | Details |
+| :------| ------ |
 | 周一 | 设备资源调整与导入。 |
 | 周二 | SSO JAR包签名修改，功能配置。 |
 | 周三 | 第二轮设计UAT，收集问题；learning center学习。 |
