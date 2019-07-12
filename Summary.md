@@ -9,7 +9,7 @@
 | 周五 | 解决上周反馈问题。 |
 
 > ###  Progress
->   * 解决UAT问题。  
+>   * 解决部分UAT问题。  
 > ###  Retrogress
 >   * 解决UAT问题。 
 > ###  Todo
